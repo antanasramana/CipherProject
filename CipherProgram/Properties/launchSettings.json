@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CipherProgram": {
+      "commandName": "Project",
+      "commandLineArgs": "-e"
+    }
+  }
+}
