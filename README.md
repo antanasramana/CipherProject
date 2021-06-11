@@ -48,6 +48,17 @@ Copyright (C) 2021 CipherProgram
 
 ## Examples:
 
+If I want to use vanilla Caesar Cipher encryption I would write
+```
+YourApplication -e -t "textToEncrypt"
+```
+Or if I want to decrypt
+```
+YourApplication -d -t "textToDecrypt"
+```
+
+### More difficult examples
+
 Let's say I want to encrypt the message in Lithuanian: **Ąžuolėlis**
 That means I need to use Lithuanian alphabet which is: **aąbcčdeęėfghiįyjklmnoprsštuųūvzž**
 I will use shift of four
